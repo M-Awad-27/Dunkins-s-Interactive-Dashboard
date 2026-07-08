@@ -6,14 +6,14 @@ An interactive, vibrant brand-themed **Dunkin' Donuts Data Dashboard** built usi
 
 ## 🚀 Live Dashboard Preview
 
-### 🏠 Introduction Page
+### 🏠 Overview
 <p align="center">
-  <img src="Preivew/1.png" alt="Dunkin Donuts Dashboard Intro View" width="100%">
+  <img src="Preivew/2.png" alt="Dunkin Donuts Dashboard Intro View" width="100%">
 </p>
 
 ### 📊 System Views Breakdown
 <p align="center">
-  <img src="Preivew/2.png" width="48%" alt="Dunkin Donuts Overview View" />
+  <img src="Preivew/1.png" width="48%" alt="Dunkin Donuts Overview View" />
   <img src="Preivew/3.png" width="48%" alt="Dunkin Donuts Detailed Customer Matrix" />
 </p>
 
