@@ -59,3 +59,9 @@ Feedback, issues, and aesthetic enhancement requests are always welcome! Feel fr
 
 ## 📝 License
 This project is open-source and available under the MIT License.
+
+## 👨‍💻 Author
+
+<h1 align="center">
+  🍁 Made by <span style="color: #FF0055;">M</span><span style="color: #00E5FF;">A</span> 🍁
+</h1>
